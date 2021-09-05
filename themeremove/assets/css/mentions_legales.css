@@ -1,0 +1,16 @@
+.container_all_mention{
+    margin-top: 50px;
+}
+
+.container_all_mention h2{
+    text-transform: uppercase;
+    color: #263152;
+    
+}
+ .container_mentions{
+    width: 65%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: justify;
+ }
