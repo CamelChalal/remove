@@ -1,0 +1,200 @@
+
+
+/* COOKIES */
+
+#cookie-law-info-bar[data-cli-style="cli-style-v2"],
+
+#cookie-law-info-bar {
+
+    background:linear-gradient( -135deg ,#263152,rgb(10 18 73 / 90%)) !important;
+
+    transition: all 0.4s linear;
+
+    backdrop-filter: blur(10px) !important;
+
+}
+
+#cookie-law-info-bar .cli-bar-container.cli-style-v2 .cli-bar-message {
+
+	    padding: 3% !important;
+
+}
+
+.cli-plugin-button{
+
+    display: inline-block;
+
+    font-weight: 400;
+
+    line-height: 1.5;
+
+    color: #212529;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    vertical-align: middle;
+
+    cursor: pointer;
+
+    -webkit-user-select: none;
+
+    -moz-user-select: none;
+
+    user-select: none;
+
+    background-color: transparent;
+
+    border: 1px solid transparent;
+
+        padding: .575rem 1rem;
+
+    font-size: 1rem;
+
+    border-radius: .25rem;
+
+    transition:all 0.3s ease}
+
+
+
+.cli-plugin-button:hover{
+
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 20%), 0 1px 3px 1px rgb(60 64 67 / 10%);
+
+}
+
+
+
+.cli_settings_button.cli-plugin-button{
+
+    background-color: #f9f9f9 !important;
+
+    border: 1px solid #1d2769;}
+
+
+
+.cli_settings_button.cli-plugin-button:hover{
+
+        color: white !important;
+
+    text-decoration: none;
+
+        background-color: #1d2769 !important;
+
+    border: 1px solid var(--activecolor) !important;
+
+}
+
+.cookie_action_close_header.cli-plugin-button{
+
+        color: white !important;
+
+    text-decoration: none;
+
+        background-color: #00a445!important;
+
+    border: 1px solid #00a445!important;
+
+
+
+
+
+}
+
+
+
+.cookie_action_close_header.cli-plugin-button:hover{
+
+        color: white !important;
+
+    text-decoration: none;
+
+    background-color: #00702f !important;
+
+    border: 1px solid #00a445!important;
+
+}
+
+.cli_messagebar_head,.cli-bar-message > b {    font-weight: 600;
+
+    font-size: var(--font-large);
+
+    color: white !important;
+
+    /* margin: 0; */
+
+    padding: 0;}
+
+.cli-bar-message {
+
+	color: white;
+
+    font-size: var(--font-normal);
+
+}
+
+
+
+.cli-switch input:checked + .cli-slider, .cli-tab-footer .wt-cli-privacy-accept-btn {background-color:#00a445!important }
+
+
+
+
+
+/* a mettre dans recrutement   */ 
+
+
+
+
+
+.card_colors > .card:nth-child(3n+1) {
+
+    background: #00a445;
+
+}
+
+.card_colors > .card:nth-child(3n+2) {
+
+    background: #263152;
+
+}
+
+.card_colors > .card:nth-child(3n+3) {
+
+    background:#a8a9ac;
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+
+.card_colors > .card.mb-3 {
+
+    flex: 0 0 auto !important;
+
+    
+
+    width: calc(33.33% - 10px);
+
+}
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+
+.card_colors  {
+
+flex:wrap;
+
+}
+
+}
+
+
+
+
+
